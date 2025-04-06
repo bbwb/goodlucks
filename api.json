@@ -67,18 +67,27 @@
      "ext": ""
       
         },	
-    	 {
-      "key": "taohua",
-      "name": "桃花",
-      "type": 1,
-      "playUrl": "https://thzy8.me/",
-      "api": "https://thzy8.me/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      //"playerType": "3",
-      "ext": ""
-    },
+  {
+            "key": "hmer资源",
+            "name": "hmer资源",
+            "type": 1,
+            "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            //"group": "切片",
+             "ext": "./jp.js"
+        },
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 	{
       "key": "youzhi1",
       "name": "优质",
